@@ -1,0 +1,13 @@
+/********************************************************************/
+/*           Hoja de estilo de pastacontomate.html                 */
+/*           Autora: María Lucía López López                      */
+/*           Versión: 1.0                                        */
+/*           Fecha: octubre 2023                                */
+/*           comentario: ejercicio para portfolio              */
+/**************************************************************/
+
+body {
+    background: url(../imagenes/receta.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
